@@ -1,0 +1,4561 @@
+{
+    "champions": [
+        {
+            "name": "Aatrox",
+            "id": "1",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Demon"
+            ],
+            "type": [
+                "Blademaster"
+            ],
+            "cost": 3,
+            "health": [
+                600,
+                1080,
+                2160
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                65
+            ],
+            "speed": 0.65,
+            "dps": [
+                42.25
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "The Darkin Blade",
+                    "type": "Active",
+                    "description": "Aatrox cleaves the area in front of him, dealing damage to enemies inside it.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                300,
+                                500,
+                                700
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ahri",
+            "id": "2",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Wild"
+            ],
+            "type": [
+                "Sorcerer"
+            ],
+            "cost": 2,
+            "health": [
+                450,
+                810,
+                1620
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 75,
+            "attack": [
+                50
+            ],
+            "speed": 0.55,
+            "dps": [
+                27.500000000000004
+            ],
+            "range": 660,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Orb of Deception",
+                    "type": "Active",
+                    "description": "Ahri fires an orb in a line that returns to her, damaging enemies it passes through.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                100,
+                                175,
+                                250
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Akali",
+            "id": "3",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": true,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Ninja"
+            ],
+            "type": [
+                "Assassin"
+            ],
+            "cost": 4,
+            "health": [
+                700,
+                1260,
+                2520
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 25,
+            "attack": [
+                70
+            ],
+            "speed": 0.7,
+            "dps": [
+                49
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Five Point Strike",
+                    "type": "Active",
+                    "description": "Akali throws shurikens in front of her, dealing damage.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                150,
+                                325,
+                                500
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Anivia",
+            "id": "4",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Glacial"
+            ],
+            "type": [
+                "Elementalist"
+            ],
+            "cost": 5,
+            "health": [
+                650,
+                1170,
+                2340
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                40
+            ],
+            "speed": 0.6,
+            "dps": [
+                24
+            ],
+            "range": 890,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Glacial Storm",
+                    "type": "Active",
+                    "description": "Anivia channels a large hailstorm, damaging and slowing the attack speed of enemies inside of it.",
+                    "tags": [
+                        {
+                            "name": "Total Damage",
+                            "bonus": [
+                                700,
+                                950,
+                                1200
+                            ]
+                        },
+                        {
+                            "name": "Attack Speed Slow",
+                            "bonus": [
+                                50,
+                                70,
+                                90
+                            ]
+                        },
+                        {
+                            "name": "Storm Duration",
+                            "bonus": [
+                                8
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ashe",
+            "id": "5",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Glacial"
+            ],
+            "type": [
+                "Ranger"
+            ],
+            "cost": 3,
+            "health": [
+                550,
+                990,
+                1980
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                60
+            ],
+            "speed": 0.7,
+            "dps": [
+                42
+            ],
+            "range": 960,
+            "range_sm": 4,
+            "skill": [
+                {
+                    "name": "Enchanted Crystal Arrow",
+                    "type": "Active",
+                    "description": "Ashe fires an arrow that stuns and damages the farthest enemy. The stun is longer the farther the enemy.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                200,
+                                400,
+                                600
+                            ]
+                        },
+                        {
+                            "name": "Stun Duration Per Square",
+                            "bonus": [
+                                1,
+                                1.5,
+                                2
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Aurelion Sol",
+            "id": "6",
+            "active": true,
+            "tier": 1,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Dragon"
+            ],
+            "type": [
+                "Sorcerer"
+            ],
+            "cost": 4,
+            "health": [
+                600,
+                1080,
+                2160
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                40
+            ],
+            "speed": 0.6,
+            "dps": [
+                24
+            ],
+            "range": 720,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Voice of Light",
+                    "type": "Active",
+                    "description": "Aurelion Sol breathes a large blast of fire in a line, dealing damage to enemies.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                300,
+                                500,
+                                700
+                            ]
+                        },
+                        {
+                            "name": "Channel Duration",
+                            "bonus": [
+                                0.35
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Blitzcrank",
+            "id": "7",
+            "active": true,
+            "tier": 4,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Robot"
+            ],
+            "type": [
+                "Brawler"
+            ],
+            "cost": 2,
+            "health": [
+                600,
+                1080,
+                2160
+            ],
+            "armor": [
+                35
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 150,
+            "attack": [
+                50
+            ],
+            "speed": 0.5,
+            "dps": [
+                25
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Rocket Grab",
+                    "type": "Active",
+                    "description": "Blitzcrank pulls the furthest enemy to him and knocks them up.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                100,
+                                350,
+                                600
+                            ]
+                        },
+                        {
+                            "name": "Stun Duration",
+                            "bonus": [
+                                2.5
+                            ]
+                        },
+                        {
+                            "name": "Missile Speed",
+                            "bonus": [
+                                3e3
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Brand",
+            "id": "8",
+            "active": true,
+            "tier": 2,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Demon"
+            ],
+            "type": [
+                "Elementalist"
+            ],
+            "cost": 4,
+            "health": [
+                700,
+                1260,
+                2520
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                60
+            ],
+            "speed": 0.6,
+            "dps": [
+                36
+            ],
+            "range": 660,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Pyroclasm",
+                    "type": "Active",
+                    "description": "Brand launches a bouncing fireball, damaging enemies hit.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                200,
+                                300,
+                                400
+                            ]
+                        },
+                        {
+                            "name": "Bounces",
+                            "bonus": [
+                                4,
+                                4,
+                                6
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Braum",
+            "id": "9",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Glacial"
+            ],
+            "type": [
+                "Guardian"
+            ],
+            "cost": 2,
+            "health": [
+                750,
+                1350,
+                2700
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 75,
+            "attack": [
+                40
+            ],
+            "speed": 0.6,
+            "dps": [
+                24
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Unbreakable",
+                    "type": "Active",
+                    "description": "Braum gains a barrier that blocks incoming damage.",
+                    "tags": [
+                        {
+                            "name": "Damage Reduction",
+                            "bonus": [
+                                60,
+                                75,
+                                90
+                            ]
+                        },
+                        {
+                            "name": "Duration",
+                            "bonus": [
+                                4
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Chogath",
+            "id": "10",
+            "active": true,
+            "tier": 2,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": true,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Void"
+            ],
+            "type": [
+                "Brawler"
+            ],
+            "cost": 4,
+            "health": [
+                1100,
+                2e3,
+                4e3
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_start": 50,
+            "mana_cost": 150,
+            "attack": [
+                70
+            ],
+            "speed": 0.55,
+            "dps": [
+                38.5
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Rupture",
+                    "type": "Active",
+                    "description": "Cho'gath ruptures an area, stunning and damaging enemies inside of it.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                200,
+                                400,
+                                600
+                            ]
+                        },
+                        {
+                            "name": "Stun Duration",
+                            "bonus": [
+                                2,
+                                2.25,
+                                2.5
+                            ]
+                        },
+                        {
+                            "name": "Delay",
+                            "bonus": [
+                                1.5
+                            ]
+                        },
+                        {
+                            "name": "Radius",
+                            "bonus": [
+                                3
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Darius",
+            "id": "11",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Imperial"
+            ],
+            "type": [
+                "Knight"
+            ],
+            "cost": 1,
+            "health": [
+                650,
+                1170,
+                2340
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                50
+            ],
+            "speed": 0.5,
+            "dps": [
+                25
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Decimate",
+                    "type": "Active",
+                    "description": "Darius swings his axe, damaging nearby enemies and healing himself based off enemies hit.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                150,
+                                200,
+                                250
+                            ]
+                        },
+                        {
+                            "name": "Heal",
+                            "bonus": [
+                                100,
+                                150,
+                                200
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Draven",
+            "id": "12",
+            "active": true,
+            "tier": 1,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Imperial"
+            ],
+            "type": [
+                "Blademaster"
+            ],
+            "cost": 4,
+            "health": [
+                700,
+                1260,
+                2520
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 50,
+            "attack": [
+                75
+            ],
+            "speed": 0.65,
+            "dps": [
+                48.75
+            ],
+            "range": 660,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Spinning Axes",
+                    "type": "Passive",
+                    "description": "Draven gains bonus on-hit damage and Attack Speed. Stacks up to two times.",
+                    "tags": [
+                        {
+                            "name": "Buff Duration",
+                            "bonus": [
+                                8
+                            ]
+                        },
+                        {
+                            "name": "Attack Multiplier",
+                            "bonus": [
+                                "150%",
+                                "200%",
+                                "250%"
+                            ]
+                        },
+                        {
+                            "name": "Attack Speed",
+                            "bonus": [
+                                "30%",
+                                "45%",
+                                "60%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Elise",
+            "id": "13",
+            "active": true,
+            "tier": 5,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Demon"
+            ],
+            "type": [
+                "Shapeshifter"
+            ],
+            "cost": 2,
+            "health": [
+                500,
+                900,
+                1800
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                40
+            ],
+            "speed": 0.6,
+            "dps": [
+                24
+            ],
+            "range": 420,
+            "range_sm": 2,
+            "skill": [
+                {
+                    "name": "Spider Form",
+                    "type": "Active",
+                    "description": "Elise summons Spiderlings and transforms, gaining Lifesteal.",
+                    "tags": [
+                        {
+                            "name": "Number of Spiderlings",
+                            "bonus": [
+                                2,
+                                3,
+                                4
+                            ]
+                        },
+                        {
+                            "name": "Lifesteal",
+                            "bonus": [
+                                "25%",
+                                "35%",
+                                "45%"
+                            ]
+                        },
+                        {
+                            "name": "Spider Form Duration",
+                            "bonus": [
+                                60
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Evelynn",
+            "id": "14",
+            "active": true,
+            "tier": 4,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Demon"
+            ],
+            "type": [
+                "Assassin"
+            ],
+            "cost": 3,
+            "health": [
+                550,
+                990,
+                1980
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 75,
+            "attack": [
+                50
+            ],
+            "speed": 0.6,
+            "dps": [
+                30
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Last Caress",
+                    "type": "Active",
+                    "description": "Evelynn deals damage to the 3 closest enemies and teleports away. Damage is increased against low health enemies.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                200,
+                                250,
+                                300
+                            ]
+                        },
+                        {
+                            "name": "Crit Multiplier",
+                            "bonus": [
+                                3,
+                                4,
+                                5
+                            ]
+                        },
+                        {
+                            "name": "Crit Threshold",
+                            "bonus": [
+                                "50%"
+                            ]
+                        },
+                        {
+                            "name": "Blink Distance",
+                            "bonus": [
+                                3
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fiora",
+            "id": "15",
+            "active": true,
+            "tier": 5,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Noble"
+            ],
+            "type": [
+                "Blademaster"
+            ],
+            "cost": 1,
+            "health": [
+                400,
+                720,
+                1440
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 75,
+            "attack": [
+                40
+            ],
+            "speed": 0.7,
+            "dps": [
+                28
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Riposte",
+                    "type": "Active",
+                    "description": "Fiora becomes immune to damage and spells. After a short delay, she stuns and damages the closest enemy.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                100,
+                                175,
+                                250
+                            ]
+                        },
+                        {
+                            "name": "Stun Duration",
+                            "bonus": [
+                                1.5
+                            ]
+                        },
+                        {
+                            "name": "Block Duration",
+                            "bonus": [
+                                1.5
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gangplank",
+            "id": "16",
+            "active": true,
+            "tier": 5,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Pirate"
+            ],
+            "type": [
+                "Gunslinger",
+                "Blademaster"
+            ],
+            "cost": 3,
+            "health": [
+                600,
+                1080,
+                2160
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                55
+            ],
+            "speed": 0.6,
+            "dps": [
+                33
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Powder Kegs",
+                    "type": "Passive",
+                    "description": "Gangplank periodically creates barrels. On cast, Gangplank detonates the barrels, damaging nearby enemies.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                150,
+                                275,
+                                400
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Garen",
+            "id": "17",
+            "active": true,
+            "tier": 2,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Noble"
+            ],
+            "type": [
+                "Knight"
+            ],
+            "cost": 1,
+            "health": [
+                600,
+                1080,
+                2160
+            ],
+            "armor": [
+                35
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                55
+            ],
+            "speed": 0.55,
+            "dps": [
+                30.250000000000004
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Judgement",
+                    "type": "Active",
+                    "description": "Garen rapidly spins his sword around his body, becoming immune to magic damage and dealing damage to nearby enemies.",
+                    "tags": [
+                        {
+                            "name": "Damage Per Tick",
+                            "bonus": [
+                                60,
+                                90,
+                                120
+                            ]
+                        },
+                        {
+                            "name": "Spin Duration",
+                            "bonus": [
+                                4
+                            ]
+                        },
+                        {
+                            "name": "Total Ticks",
+                            "bonus": [
+                                9
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gnar",
+            "id": "18",
+            "active": true,
+            "tier": 1,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Wild",
+                "Yordle"
+            ],
+            "type": [
+                "Shapeshifter"
+            ],
+            "cost": 4,
+            "health": [
+                850,
+                1530,
+                3060
+            ],
+            "armor": [
+                35
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 125,
+            "attack": [
+                45
+            ],
+            "speed": 0.7,
+            "dps": [
+                31.499999999999996
+            ],
+            "range": 420,
+            "range_sm": 2,
+            "skill": [
+                {
+                    "name": "GNAR!",
+                    "type": "Active",
+                    "description": "Gnar transforms, gaining Health, Attack Damage and jumping behind the furthest enemy, damaging and stunning enemies nearby.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                200,
+                                300,
+                                400
+                            ]
+                        },
+                        {
+                            "name": "CC Duration",
+                            "bonus": [
+                                2
+                            ]
+                        },
+                        {
+                            "name": "Knockback Distance",
+                            "bonus": [
+                                2
+                            ]
+                        },
+                        {
+                            "name": "Transform Duration",
+                            "bonus": [
+                                60
+                            ]
+                        },
+                        {
+                            "name": "Transform HP",
+                            "bonus": [
+                                300,
+                                600,
+                                900
+                            ]
+                        },
+                        {
+                            "name": "Transform Damage",
+                            "bonus": [
+                                30,
+                                60,
+                                90
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Graves",
+            "id": "19",
+            "active": true,
+            "tier": 5,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Pirate"
+            ],
+            "type": [
+                "Gunslinger"
+            ],
+            "cost": 1,
+            "health": [
+                500,
+                900,
+                1800
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 0,
+            "attack": [
+                55
+            ],
+            "speed": 0.5,
+            "dps": [
+                27.5
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Buckshot",
+                    "type": "Passive",
+                    "description": "Graves' attacks deal increased damage and hit all enemies in front of him.",
+                    "tags": [
+                        {
+                            "name": "Damage Multiplier",
+                            "bonus": [
+                                "5%",
+                                "10%",
+                                "15%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Karthus",
+            "id": "20",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Phantom"
+            ],
+            "type": [
+                "Sorcerer"
+            ],
+            "cost": 5,
+            "health": [
+                850,
+                1530,
+                3060
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                65
+            ],
+            "speed": 0.65,
+            "dps": [
+                42.25
+            ],
+            "range": 660,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Requiem",
+                    "type": "Active",
+                    "description": "Karthus deals damage to a number of random enemies after a long channel.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                300,
+                                575,
+                                850
+                            ]
+                        },
+                        {
+                            "name": "Targets",
+                            "bonus": [
+                                4,
+                                7,
+                                10
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kassadin",
+            "id": "21",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Void"
+            ],
+            "type": [
+                "Sorcerer"
+            ],
+            "cost": 1,
+            "health": [
+                550,
+                990,
+                1980
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 0,
+            "attack": [
+                45
+            ],
+            "speed": 0.65,
+            "dps": [
+                29.25
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Nether Blade",
+                    "type": "Active",
+                    "description": "Kassadin's attacks steal mana from enemies, converting it into a shield.",
+                    "tags": [
+                        {
+                            "name": "Shield Duration",
+                            "bonus": [
+                                4
+                            ]
+                        },
+                        {
+                            "name": "Mana Steal",
+                            "bonus": [
+                                20,
+                                40,
+                                60
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Katarina",
+            "id": "22",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Imperial"
+            ],
+            "type": [
+                "Assassin"
+            ],
+            "cost": 3,
+            "health": [
+                450,
+                810,
+                1620
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                50
+            ],
+            "speed": 0.6,
+            "dps": [
+                30
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Death Lotus",
+                    "type": "Active",
+                    "description": "Katarina channels and fires daggers at a number of nearby enemies, dealing damage and reducing healing.",
+                    "tags": [
+                        {
+                            "name": "Damage Per Tick",
+                            "bonus": [
+                                40,
+                                60,
+                                80
+                            ]
+                        },
+                        {
+                            "name": "Ticks Per Second",
+                            "bonus": [
+                                6
+                            ]
+                        },
+                        {
+                            "name": "Channel Duration",
+                            "bonus": [
+                                2.5
+                            ]
+                        },
+                        {
+                            "name": "Grievous Wounds Duration",
+                            "bonus": [
+                                3
+                            ]
+                        },
+                        {
+                            "name": "Targets",
+                            "bonus": [
+                                3,
+                                5,
+                                7
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kayle",
+            "id": "23",
+            "active": true,
+            "tier": 2,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Noble"
+            ],
+            "type": [
+                "Knight"
+            ],
+            "cost": 5,
+            "health": [
+                800,
+                1440,
+                2880
+            ],
+            "armor": [
+                35
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                60
+            ],
+            "speed": 1.1,
+            "dps": [
+                66
+            ],
+            "range": 660,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Divine Judgement",
+                    "type": "Active",
+                    "description": "Kayle shields the weakest ally, making them immune to damage.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                500,
+                                800,
+                                1100
+                            ]
+                        },
+                        {
+                            "name": "Shield Duration",
+                            "bonus": [
+                                2,
+                                3,
+                                4
+                            ]
+                        },
+                        {
+                            "name": "Extra Targets",
+                            "bonus": [
+                                0,
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kennen",
+            "id": "24",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Ninja",
+                "Yordle"
+            ],
+            "type": [
+                "Elementalist"
+            ],
+            "cost": 3,
+            "health": [
+                550,
+                990,
+                1980
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_start": 50,
+            "mana_cost": 150,
+            "attack": [
+                60
+            ],
+            "speed": 0.6,
+            "dps": [
+                36
+            ],
+            "range": 420,
+            "range_sm": 2,
+            "skill": [
+                {
+                    "name": "Slicing Maelstrom",
+                    "type": "Active",
+                    "description": "Kennen summons a storm around him, dealing damage and stunning enemies inside of it.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                50,
+                                80,
+                                110
+                            ]
+                        },
+                        {
+                            "name": "Tick Rate",
+                            "bonus": [
+                                0.5
+                            ]
+                        },
+                        {
+                            "name": "Duration",
+                            "bonus": [
+                                3
+                            ]
+                        },
+                        {
+                            "name": "Stun Duration",
+                            "bonus": [
+                                1.5
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Khazix",
+            "id": "25",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Void"
+            ],
+            "type": [
+                "Assassin"
+            ],
+            "cost": 1,
+            "health": [
+                500,
+                900,
+                1800
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 50,
+            "attack": [
+                50
+            ],
+            "speed": 0.6,
+            "dps": [
+                30
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Taste their Fear",
+                    "type": "Passive",
+                    "description": "Kha'Zix slashes the closest enemy, dealing bonus damage to enemies that are alone.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                150,
+                                250,
+                                350
+                            ]
+                        },
+                        {
+                            "name": "Isolation Damage",
+                            "bonus": [
+                                400,
+                                600,
+                                800
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kindred",
+            "id": "26",
+            "active": true,
+            "tier": 2,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Phantom"
+            ],
+            "type": [
+                "Ranger"
+            ],
+            "cost": 4,
+            "health": [
+                600,
+                1080,
+                2160
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_start": 50,
+            "mana_cost": 150,
+            "attack": [
+                55
+            ],
+            "speed": 0.65,
+            "dps": [
+                35.75
+            ],
+            "range": 660,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Lamb's Respite",
+                    "type": "Active",
+                    "description": "Kindred creates a zone around herself that prevents allies from dying.",
+                    "tags": [
+                        {
+                            "name": "Duration",
+                            "bonus": [
+                                4,
+                                5,
+                                6
+                            ]
+                        },
+                        {
+                            "name": "Min HP",
+                            "bonus": [
+                                300,
+                                600,
+                                900
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Leona",
+            "id": "27",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Noble"
+            ],
+            "type": [
+                "Guardian"
+            ],
+            "cost": 4,
+            "health": [
+                750,
+                1350,
+                2700
+            ],
+            "armor": [
+                55
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_start": 50,
+            "mana_cost": 150,
+            "attack": [
+                45
+            ],
+            "speed": 0.55,
+            "dps": [
+                24.750000000000004
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Solar Flare",
+                    "type": "Active",
+                    "description": "Leona calls down a solar ray that damages and slows enemies inside it. The enemy in the center is stunned.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                175,
+                                250,
+                                325
+                            ]
+                        },
+                        {
+                            "name": "Stun Duration",
+                            "bonus": [
+                                5,
+                                8,
+                                11
+                            ]
+                        },
+                        {
+                            "name": "Delay",
+                            "bonus": [
+                                0.625
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Lissandra",
+            "id": "28",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Glacial"
+            ],
+            "type": [
+                "Elementalist"
+            ],
+            "cost": 2,
+            "health": [
+                450,
+                810,
+                1620
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 150,
+            "attack": [
+                40
+            ],
+            "speed": 0.6,
+            "dps": [
+                24
+            ],
+            "range": 660,
+            "range_sm": 2,
+            "skill": [
+                {
+                    "name": "Frozen Tomb",
+                    "type": "Active",
+                    "description": "Lissandra encases the target in ice, dealing damage to nearby enemies. Below half HP, Lissandra instead encases herself, becoming untargetable.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                225,
+                                300,
+                                375
+                            ]
+                        },
+                        {
+                            "name": "Enemy Stun Duration",
+                            "bonus": [
+                                1.5
+                            ]
+                        },
+                        {
+                            "name": "Self Duration",
+                            "bonus": [
+                                2
+                            ]
+                        },
+                        {
+                            "name": "Slow Duration",
+                            "bonus": [
+                                3
+                            ]
+                        },
+                        {
+                            "name": "Slow Amount",
+                            "bonus": [
+                                2
+                            ]
+                        },
+                        {
+                            "name": "Slow Field Duration",
+                            "bonus": [
+                                3
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Lucian",
+            "id": "29",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Noble"
+            ],
+            "type": [
+                "Gunslinger"
+            ],
+            "cost": 2,
+            "health": [
+                600,
+                1080,
+                2160
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 35,
+            "attack": [
+                60
+            ],
+            "speed": 0.6,
+            "dps": [
+                36
+            ],
+            "range": 660,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Relentless Pursuit",
+                    "type": "Active",
+                    "description": "Lucian dashes away to safety and attacks an enemy twice, once with Attack Damage and once with Spell Damage.",
+                    "tags": [
+                        {
+                            "name": "Damage Per Bullet",
+                            "bonus": [
+                                25,
+                                45,
+                                65
+                            ]
+                        },
+                        {
+                            "name": "Shots",
+                            "bonus": [
+                                20,
+                                25,
+                                30
+                            ]
+                        },
+                        {
+                            "name": "Duration",
+                            "bonus": [
+                                3
+                            ]
+                        },
+                        {
+                            "name": "Recast Lockout",
+                            "bonus": [
+                                0.75
+                            ]
+                        },
+                        {
+                            "name": "% Damage to Minions",
+                            "bonus": [
+                                200
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Lulu",
+            "id": "30",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Yordle"
+            ],
+            "type": [
+                "Sorcerer"
+            ],
+            "cost": 2,
+            "health": [
+                500,
+                900,
+                1800
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 150,
+            "attack": [
+                50
+            ],
+            "speed": 0.6,
+            "dps": [
+                30
+            ],
+            "range": 420,
+            "range_sm": 2,
+            "skill": [
+                {
+                    "name": "Wild Growth",
+                    "type": "Active",
+                    "description": "Lulu grants an ally bonus Health, knocking up enemies near them.",
+                    "tags": [
+                        {
+                            "name": "Bonus HP",
+                            "bonus": [
+                                300,
+                                475,
+                                650
+                            ]
+                        },
+                        {
+                            "name": "Extra Targets",
+                            "bonus": [
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "name": "Duration",
+                            "bonus": [
+                                6
+                            ]
+                        },
+                        {
+                            "name": "Knock Duration",
+                            "bonus": [
+                                1.25
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Miss Fortune",
+            "id": "31",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Pirate"
+            ],
+            "type": [
+                "Gunslinger"
+            ],
+            "cost": 5,
+            "health": [
+                650,
+                1170,
+                2340
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                75
+            ],
+            "speed": 0.75,
+            "dps": [
+                56.25
+            ],
+            "range": 660,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Bullet Time",
+                    "type": "Active",
+                    "description": "Miss Fortune channels and fires several waves of bullets in a cone.",
+                    "tags": [
+                        {
+                            "name": "Total Damage",
+                            "bonus": [
+                                800,
+                                1250,
+                                1700
+                            ]
+                        },
+                        {
+                            "name": "Waves",
+                            "bonus": [
+                                14
+                            ]
+                        },
+                        {
+                            "name": "Channel Duration",
+                            "bonus": [
+                                3
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mordekaiser",
+            "id": "32",
+            "active": true,
+            "tier": 4,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Phantom"
+            ],
+            "type": [
+                "Knight"
+            ],
+            "cost": 1,
+            "health": [
+                500,
+                900
+            ],
+            "armor": [
+                35
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                50
+            ],
+            "speed": 0.5,
+            "dps": [
+                25
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Obliterate",
+                    "type": "Active",
+                    "description": "Mordekaiser slams his mace in front him, dealing damage to two enemies in a line.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                200,
+                                325,
+                                450
+                            ]
+                        },
+                        {
+                            "name": "Start Distance",
+                            "bonus": [
+                                2
+                            ]
+                        },
+                        {
+                            "name": "Length",
+                            "bonus": [
+                                3
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Morgana",
+            "id": "33",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Demon"
+            ],
+            "type": [
+                "Sorcerer"
+            ],
+            "cost": 3,
+            "health": [
+                600,
+                1080,
+                2160
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_start": 50,
+            "mana_cost": 150,
+            "attack": [
+                50
+            ],
+            "speed": 0.6,
+            "dps": [
+                30
+            ],
+            "range": 420,
+            "range_sm": 2,
+            "skill": [
+                {
+                    "name": "Soul Shackles",
+                    "type": "Active",
+                    "description": "Morgana fires chains to nearby enemies, dealing damage and stunning after a short delay if they are still nearby.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                250,
+                                350,
+                                450
+                            ]
+                        },
+                        {
+                            "name": "Chain Duration",
+                            "bonus": [
+                                3
+                            ]
+                        },
+                        {
+                            "name": "Stun Duration",
+                            "bonus": [
+                                2,
+                                4,
+                                6
+                            ]
+                        },
+                        {
+                            "name": "Slow %",
+                            "bonus": [
+                                20
+                            ]
+                        },
+                        {
+                            "name": "Range",
+                            "bonus": [
+                                3
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nidalee",
+            "id": "34",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Wild"
+            ],
+            "type": [
+                "Shapeshifter"
+            ],
+            "cost": 1,
+            "health": [
+                500,
+                900,
+                1800
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                50
+            ],
+            "speed": 0.65,
+            "dps": [
+                32.5
+            ],
+            "range": 660,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Primal Surge",
+                    "type": "Active",
+                    "description": "Nidalee heals herself and the weakest ally, then transforms gaining Attack Damage.",
+                    "tags": [
+                        {
+                            "name": "HoT Total Heal",
+                            "bonus": [
+                                200,
+                                400,
+                                600
+                            ]
+                        },
+                        {
+                            "name": "HoT Duration",
+                            "bonus": [
+                                6
+                            ]
+                        },
+                        {
+                            "name": "Transform Duration",
+                            "bonus": [
+                                60
+                            ]
+                        },
+                        {
+                            "name": "Delay",
+                            "bonus": [
+                                0.5
+                            ]
+                        },
+                        {
+                            "name": "Transform Damage",
+                            "bonus": [
+                                30,
+                                75,
+                                120
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Poppy",
+            "id": "35",
+            "active": true,
+            "tier": 4,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Yordle"
+            ],
+            "type": [
+                "Knight"
+            ],
+            "cost": 3,
+            "health": [
+                750,
+                1350,
+                2700
+            ],
+            "armor": [
+                30
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                50
+            ],
+            "speed": 0.5,
+            "dps": [
+                25
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Keeper's Verdict",
+                    "type": "Active",
+                    "description": "Poppy swings her hammer, damaging and knocking up the closest enemy.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                300,
+                                400,
+                                500
+                            ]
+                        },
+                        {
+                            "name": "Knockback Duration",
+                            "bonus": [
+                                1
+                            ]
+                        },
+                        {
+                            "name": "Stun Duration",
+                            "bonus": [
+                                1.5,
+                                2.5,
+                                3.5
+                            ]
+                        },
+                        {
+                            "name": "Delay",
+                            "bonus": [
+                                0.75
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pyke",
+            "id": "36",
+            "active": true,
+            "tier": 4,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Pirate"
+            ],
+            "type": [
+                "Assassin"
+            ],
+            "cost": 2,
+            "health": [
+                600,
+                1080,
+                2160
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_start": 50,
+            "mana_cost": 125,
+            "attack": [
+                60
+            ],
+            "speed": 0.55,
+            "dps": [
+                33
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Phantom Undertow",
+                    "type": "Active",
+                    "description": "Pyke dashes behind the furthest enemy, creating an afterimage that stuns enemies it passes through.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                150,
+                                200,
+                                250
+                            ]
+                        },
+                        {
+                            "name": "Stun Duration",
+                            "bonus": [
+                                2,
+                                2.5,
+                                3
+                            ]
+                        },
+                        {
+                            "name": "Stun Delay",
+                            "bonus": [
+                                1
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "RekSai",
+            "id": "37",
+            "active": true,
+            "tier": 5,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Void"
+            ],
+            "type": [
+                "Brawler"
+            ],
+            "cost": 2,
+            "health": [
+                650,
+                1170,
+                2340
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 150,
+            "attack": [
+                40
+            ],
+            "speed": 0.65,
+            "dps": [
+                26
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Burrow",
+                    "type": "Active",
+                    "description": "Rek'Sai burrows for a short duration becoming untargetable and healing. When Rek'Sai unburrows she deals damage and knocks up the closest enemy.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                150,
+                                200,
+                                250
+                            ]
+                        },
+                        {
+                            "name": "Heal Amount",
+                            "bonus": [
+                                300,
+                                400,
+                                500
+                            ]
+                        },
+                        {
+                            "name": "Heal Tick Rate",
+                            "bonus": [
+                                0.5
+                            ]
+                        },
+                        {
+                            "name": "Burrow Duration",
+                            "bonus": [
+                                2
+                            ]
+                        },
+                        {
+                            "name": "Knock Duration",
+                            "bonus": [
+                                1
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rengar",
+            "id": "38",
+            "active": true,
+            "tier": 4,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Wild"
+            ],
+            "type": [
+                "Assassin"
+            ],
+            "cost": 3,
+            "health": [
+                550,
+                990,
+                1980
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 75,
+            "attack": [
+                55
+            ],
+            "speed": 0.55,
+            "dps": [
+                30.250000000000004
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Savagery",
+                    "type": "Active",
+                    "description": "Rengar leaps to the weakest enemy, gaining Attack Speed and Critical Strike Chance.",
+                    "tags": [
+                        {
+                            "name": "Damage Multiplier",
+                            "bonus": [
+                                "210%",
+                                "320%",
+                                "430%"
+                            ]
+                        },
+                        {
+                            "name": "Attack Speed",
+                            "bonus": [
+                                "50%",
+                                "65%",
+                                "80%"
+                            ]
+                        },
+                        {
+                            "name": "Crit",
+                            "bonus": [
+                                "25%"
+                            ]
+                        },
+                        {
+                            "name": "Buff Duration",
+                            "bonus": [
+                                6
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sejuani",
+            "id": "39",
+            "active": true,
+            "tier": 1,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": true,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Glacial"
+            ],
+            "type": [
+                "Knight"
+            ],
+            "cost": 4,
+            "health": [
+                850,
+                1530,
+                3060
+            ],
+            "armor": [
+                35
+            ],
+            "resistance": [
+                25
+            ],
+            "mana_start": 50,
+            "mana_cost": 150,
+            "attack": [
+                45
+            ],
+            "speed": 0.55,
+            "dps": [
+                24.750000000000004
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Glacial Prison",
+                    "type": "Active",
+                    "description": "Sejuani creates a large glacial storm, stunning enemies within it after a short delay.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                100,
+                                175,
+                                250
+                            ]
+                        },
+                        {
+                            "name": "Stun Duration",
+                            "bonus": [
+                                3,
+                                4,
+                                5
+                            ]
+                        },
+                        {
+                            "name": "Explosion Delay",
+                            "bonus": [
+                                0,
+                                2,
+                                2
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Shen",
+            "id": "40",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Ninja"
+            ],
+            "type": [
+                "Blademaster"
+            ],
+            "cost": 2,
+            "health": [
+                650,
+                1170,
+                2340
+            ],
+            "armor": [
+                30
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_start": 50,
+            "mana_cost": 150,
+            "attack": [
+                55
+            ],
+            "speed": 0.6,
+            "dps": [
+                33
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Spirit's Refuge",
+                    "type": "Active",
+                    "description": "Shen creates a zone around himself, allowing allies to dodge all attacks.",
+                    "tags": [
+                        {
+                            "name": "Zone Duration",
+                            "bonus": [
+                                3,
+                                4,
+                                5
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Shyvana",
+            "id": "41",
+            "active": true,
+            "tier": 2,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Dragon"
+            ],
+            "type": [
+                "Shapeshifter"
+            ],
+            "cost": 3,
+            "health": [
+                550,
+                990,
+                1980
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                50
+            ],
+            "speed": 0.65,
+            "dps": [
+                32.5
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Dragon's Descent",
+                    "type": "Active",
+                    "description": "Shyvana dashes and transforms, gaining Attack Damage and Attack Range. When transformed, her attacks set enemies on fire.",
+                    "tags": [
+                        {
+                            "name": "Burn Damage",
+                            "bonus": [
+                                200,
+                                300,
+                                400
+                            ]
+                        },
+                        {
+                            "name": "Burn Duration",
+                            "bonus": [
+                                3
+                            ]
+                        },
+                        {
+                            "name": "Transform Duration",
+                            "bonus": [
+                                60
+                            ]
+                        },
+                        {
+                            "name": "Transform Damage",
+                            "bonus": [
+                                50,
+                                90,
+                                130
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Swain",
+            "id": "42",
+            "active": true,
+            "tier": 2,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Imperial",
+                "Demon"
+            ],
+            "type": [
+                "Shapeshifter"
+            ],
+            "cost": 5,
+            "health": [
+                850,
+                1530,
+                3060
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                65
+            ],
+            "speed": 0.65,
+            "dps": [
+                42.25
+            ],
+            "range": 420,
+            "range_sm": 2,
+            "skill": [
+                {
+                    "name": "Demonflare",
+                    "type": "Active",
+                    "description": "Swain transforms, draining health from all nearby enemies. At the end of his transformation, Swain sends out a burst of energy dealing damage to nearby enemies.",
+                    "tags": [
+                        {
+                            "name": "Soulflare Damage",
+                            "bonus": [
+                                300,
+                                600,
+                                900
+                            ]
+                        },
+                        {
+                            "name": "Damage Per Tick",
+                            "bonus": [
+                                50,
+                                100,
+                                150
+                            ]
+                        },
+                        {
+                            "name": "Heal Per Tick",
+                            "bonus": [
+                                50,
+                                90,
+                                130
+                            ]
+                        },
+                        {
+                            "name": "Transform Duration",
+                            "bonus": [
+                                6
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tristana",
+            "id": "43",
+            "active": true,
+            "tier": 5,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Yordle"
+            ],
+            "type": [
+                "Gunslinger"
+            ],
+            "cost": 1,
+            "health": [
+                500,
+                900,
+                1800
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 50,
+            "attack": [
+                50
+            ],
+            "speed": 0.65,
+            "dps": [
+                32.5
+            ],
+            "range": 890,
+            "range_sm": 4,
+            "skill": [
+                {
+                    "name": "Explosive Charge",
+                    "type": "Active",
+                    "description": "Tristana places a bomb on her current target that detonates after 3 attacks, damaging nearby enemies.",
+                    "tags": [
+                        {
+                            "name": "Charge Damage",
+                            "bonus": [
+                                50,
+                                75,
+                                100
+                            ]
+                        },
+                        {
+                            "name": "Damage Increase Per Stack",
+                            "bonus": [
+                                "50%"
+                            ]
+                        },
+                        {
+                            "name": "Charge Duration",
+                            "bonus": [
+                                4
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Varus",
+            "id": "44",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Demon"
+            ],
+            "type": [
+                "Ranger"
+            ],
+            "cost": 2,
+            "health": [
+                500,
+                900,
+                1800
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                50
+            ],
+            "speed": 0.7,
+            "dps": [
+                35
+            ],
+            "range": 890,
+            "range_sm": 4,
+            "skill": [
+                {
+                    "name": "Piercing Arrow",
+                    "type": "Active",
+                    "description": "Varus charges and fires an arrow, dealing damage to all enemies in a line.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                400,
+                                600,
+                                800
+                            ]
+                        },
+                        {
+                            "name": "Range",
+                            "bonus": [
+                                8
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Vayne",
+            "id": "45",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Noble"
+            ],
+            "type": [
+                "Ranger"
+            ],
+            "cost": 1,
+            "health": [
+                550,
+                990,
+                1980
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 0,
+            "attack": [
+                45
+            ],
+            "speed": 0.6,
+            "dps": [
+                27
+            ],
+            "range": 660,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Silver Bolts",
+                    "type": "Passive",
+                    "description": "Vayne deals bonus true damage every third attack based on the enemy's maximum health.",
+                    "tags": [
+                        {
+                            "name": "% Damage",
+                            "bonus": [
+                                "8%",
+                                "10%",
+                                "12%"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Veigar",
+            "id": "46",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Yordle"
+            ],
+            "type": [
+                "Sorcerer"
+            ],
+            "cost": 3,
+            "health": [
+                450,
+                810,
+                1620
+            ],
+            "armor": [
+                20
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                45
+            ],
+            "speed": 0.55,
+            "dps": [
+                24.750000000000004
+            ],
+            "range": 660,
+            "range_sm": 3,
+            "skill": [
+                {
+                    "name": "Primordial Burst",
+                    "type": "Active",
+                    "description": "Veigar blasts an enemy with magical energy, dealing damage. This spell instantly kills if the enemy is a lower star level than Veigar.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                300,
+                                450,
+                                600
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Volibear",
+            "id": "47",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Glacial"
+            ],
+            "type": [
+                "Brawler"
+            ],
+            "cost": 3,
+            "health": [
+                650,
+                1170,
+                2340
+            ],
+            "armor": [
+                35
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 100,
+            "attack": [
+                75
+            ],
+            "speed": 0.5,
+            "dps": [
+                37.5
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Thunder Claws",
+                    "type": "Passive",
+                    "description": "Volibear empowers his attacks to chain between enemies, applying on-hit effects.",
+                    "tags": [
+                        {
+                            "name": "Chain Damage Multiplier",
+                            "bonus": [
+                                "80%",
+                                "90%",
+                                "100%"
+                            ]
+                        },
+                        {
+                            "name": "Bounces",
+                            "bonus": [
+                                3,
+                                4,
+                                5
+                            ]
+                        },
+                        {
+                            "name": "Buff Duration",
+                            "bonus": [
+                                20
+                            ]
+                        },
+                        {
+                            "name": "Range",
+                            "bonus": [
+                                1
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Warwick",
+            "id": "48",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Wild"
+            ],
+            "type": [
+                "Brawler"
+            ],
+            "cost": 1,
+            "health": [
+                600,
+                1080,
+                2160
+            ],
+            "armor": [
+                30
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_start": 50,
+            "mana_cost": 150,
+            "attack": [
+                50
+            ],
+            "speed": 0.6,
+            "dps": [
+                30
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Infinite Duress",
+                    "type": "Active",
+                    "description": "Warwick pounces onto the lowest health enemy, stunning and damaging them while healing himself.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                150,
+                                225,
+                                300
+                            ]
+                        },
+                        {
+                            "name": "Hits",
+                            "bonus": [
+                                3
+                            ]
+                        },
+                        {
+                            "name": "Duration",
+                            "bonus": [
+                                1.5
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Yasuo",
+            "id": "49",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Exile"
+            ],
+            "type": [
+                "Blademaster"
+            ],
+            "cost": 5,
+            "health": [
+                650,
+                1170,
+                2340
+            ],
+            "armor": [
+                35
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 25,
+            "attack": [
+                65
+            ],
+            "speed": 1,
+            "dps": [
+                65
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Steel Tempest",
+                    "type": "Active",
+                    "description": "Yasuo stabs forward, damaging two enemies in a line. On third cast, Yasuo instead launches a tornado dealing damage and knocking up enemies in a line.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                150,
+                                250,
+                                350
+                            ]
+                        },
+                        {
+                            "name": "Range",
+                            "bonus": [
+                                2
+                            ]
+                        },
+                        {
+                            "name": "Empowered Range",
+                            "bonus": [
+                                6
+                            ]
+                        },
+                        {
+                            "name": "Empower Count",
+                            "bonus": [
+                                2
+                            ]
+                        },
+                        {
+                            "name": "Knock Duration",
+                            "bonus": [
+                                1.25
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Zed",
+            "id": "50",
+            "active": true,
+            "tier": 3,
+            "new": false,
+            "updated": false,
+            "popular": false,
+            "buff": false,
+            "nerf": false,
+            "tier_up": false,
+            "tier_down": false,
+            "origin": [
+                "Ninja"
+            ],
+            "type": [
+                "Assassin"
+            ],
+            "cost": 2,
+            "health": [
+                500,
+                900,
+                1800
+            ],
+            "armor": [
+                25
+            ],
+            "resistance": [
+                20
+            ],
+            "mana_cost": 75,
+            "attack": [
+                55
+            ],
+            "speed": 0.6,
+            "dps": [
+                33
+            ],
+            "range": 180,
+            "range_sm": 1,
+            "skill": [
+                {
+                    "name": "Razor Shuriken",
+                    "type": "Active",
+                    "description": "Zed throws a shuriken, dealing damage to enemies in a line.",
+                    "tags": [
+                        {
+                            "name": "Damage",
+                            "bonus": [
+                                200,
+                                300,
+                                400
+                            ]
+                        },
+                        {
+                            "name": "Range",
+                            "bonus": [
+                                4
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "name": "B.F. Sword",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "+20 Attack Damage."
+            ],
+            "into": [
+                "Bloodthirster",
+                "Guardian Angel",
+                "Hextech Gunblade",
+                "Infinity Edge",
+                "Spear of Shojin",
+                "Sword of the Divine",
+                "Youmuu's Ghostblade",
+                "Zeke's Herald"
+            ]
+        },
+        {
+            "name": "Chain Vest",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 5,
+            "bonus": [
+                "+20 Armor."
+            ],
+            "into": [
+                "Frozen Heart",
+                "Guardian Angel",
+                "Knight's Vow",
+                "Locket of the Iron Solari",
+                "Phantom Dancer",
+                "Red Buff",
+                "Sword Breaker",
+                "Thornmail"
+            ]
+        },
+        {
+            "name": "Giant's Belt",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 4,
+            "bonus": [
+                "+200 Health."
+            ],
+            "into": [
+                "Frozen Mallet",
+                "Morellonomicon",
+                "Red Buff",
+                "Redemption",
+                "Titanic Hydra",
+                "Warmog's Armor",
+                "Zeke's Herald",
+                "Zephyr"
+            ]
+        },
+        {
+            "name": "Needlessly Large Rod",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "+20% Spell Damage."
+            ],
+            "into": [
+                "Guinsoo's Rageblade",
+                "Hextech Gunblade",
+                "Ionic Spark",
+                "Locket of the Iron Solari",
+                "Luden's Echo",
+                "Morellonomicon",
+                "Yuumi",
+                "Rabadon's Deathcap"
+            ]
+        },
+        {
+            "name": "Negatron Cloak",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 4,
+            "bonus": [
+                "+20 Magic Resist."
+            ],
+            "into": [
+                "Cursed Blade",
+                "Ionic Spark",
+                "Sword Breaker",
+                "Zephyr"
+            ]
+        },
+        {
+            "name": "Recurve Bow",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 2,
+            "bonus": [
+                "+15% Attack Speed"
+            ],
+            "into": [
+                "Blade of the Ruined King",
+                "Cursed Blade",
+                "Guinsoo's Rageblade",
+                "Phantom Dancer",
+                "Rapid Firecannon",
+                "Statikk Shiv",
+                "Sword of the Divine",
+                "Titanic Hydra"
+            ]
+        },
+        {
+            "name": "Spatula",
+            "tier_up": false,
+            "tier_down": true,
+            "tier": 2,
+            "bonus": [
+                "It must do something..."
+            ],
+            "into": [
+                "Blade of the Ruined King",
+                "Brawler's Gloves",
+                "Darkin",
+                "Force of Nature",
+                "Frozen Mallet",
+                "Knight's Vow",
+                "Youmuu's Ghostblade",
+                "Yuumi",
+                "Runaan's Hurricane"
+            ]
+        },
+        {
+            "name": "Tear of the Goddess",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "+20 Mana."
+            ],
+            "into": [
+                "Darkin",
+                "Frozen Heart",
+                "Hush",
+                "Luden's Echo",
+                "Redemption",
+                "Seraph's Embrace",
+                "Spear of Shojin",
+                "Statikk Shiv"
+            ]
+        },
+        {
+            "name": "Blade of the Ruined King",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 2,
+            "bonus": [
+                "Wearer is also a Blademaster."
+            ],
+            "combine": [
+                "Spatula",
+                "Recurve Bow"
+            ]
+        },
+        {
+            "name": "Bloodthirster",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 2,
+            "bonus": [
+                "Attacks heal for 35% of damage."
+            ],
+            "combine": [
+                "B.F. Sword",
+                "Negatron Cloak"
+            ]
+        },
+        {
+            "name": "Cursed Blade",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Attacks have a low chance to Shrink (Reduce enemy's star level by 1)."
+            ],
+            "combine": [
+                "Negatron Cloak",
+                "Recurve Bow"
+            ]
+        },
+        {
+            "name": "Darkin",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 5,
+            "bonus": [
+                "Wearer is also a Demon."
+            ],
+            "combine": [
+                "Spatula",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Dragon's Claw",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 5,
+            "bonus": [
+                "Gain 83% resistance to magic damage."
+            ],
+            "combine": [
+                "Negatron Cloak",
+                "Negatron Cloak"
+            ]
+        },
+        {
+            "name": "Force of Nature",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 1,
+            "bonus": [
+                "Gain +1 team size."
+            ],
+            "combine": [
+                "Spatula",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Frozen Heart",
+            "tier_up": true,
+            "tier_down": false,
+            "tier": 1,
+            "bonus": [
+                "Adjacent enemies lose 20% Attack Speed."
+            ],
+            "combine": [
+                "Chain Vest",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Frozen Mallet",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 2,
+            "bonus": [
+                "Wearer is also a Glacial."
+            ],
+            "combine": [
+                "Giant's Belt",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Guardian Angel",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 4,
+            "bonus": [
+                "Wearer revives with 300 Health."
+            ],
+            "combine": [
+                "B.F. Sword",
+                "Chain Vest"
+            ]
+        },
+        {
+            "name": "Guinsoo's Rageblade",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 1,
+            "bonus": [
+                "Attacks grant 3% Attack Speed. Stacks infinitely."
+            ],
+            "combine": [
+                "Needlessly Large Rod",
+                "Recurve Bow"
+            ]
+        },
+        {
+            "name": "Hextech Gunblade",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Heal for 25% of all damage dealt."
+            ],
+            "combine": [
+                "B.F. Sword",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Hush",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 4,
+            "bonus": [
+                "Attacks have a high chance to Silence."
+            ],
+            "combine": [
+                "Negatron Cloak",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Infinity Edge",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Critical Strikes deal +100% damage."
+            ],
+            "combine": [
+                "B.F. Sword",
+                "B.F. Sword"
+            ]
+        },
+        {
+            "name": "Ionic Spark",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 4,
+            "bonus": [
+                "Whenever an enemy casts a spell, they take 100 damage."
+            ],
+            "combine": [
+                "Needlessly Large Rod",
+                "Negatron Cloak"
+            ]
+        },
+        {
+            "name": "Knight's Vow",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Wearer is also a Knight."
+            ],
+            "combine": [
+                "Spatula",
+                "Chain Vest"
+            ]
+        },
+        {
+            "name": "Locket of the Iron Solari",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "On start of combat, all adjacent allies gain a shield of 200."
+            ],
+            "combine": [
+                "Chain Vest",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Luden's Echo",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Spells deal 100 splash damage on hit."
+            ],
+            "combine": [
+                "Tear of the Goddess",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Morellonomicon",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 2,
+            "bonus": [
+                "Spells deal burn damage equal to 5% of the enemy's maximum health per second."
+            ],
+            "combine": [
+                "Giant's Belt",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Phantom Dancer",
+            "tier_up": true,
+            "tier_down": false,
+            "tier": 1,
+            "bonus": [
+                "Wearer dodges all Critical Strikes."
+            ],
+            "combine": [
+                "Chain Vest",
+                "Recurve Bow"
+            ]
+        },
+        {
+            "name": "Rabadon's Deathcap",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "+50% Ability Power."
+            ],
+            "combine": [
+                "Needlessly Large Rod",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Rapid Firecannon",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 1,
+            "bonus": [
+                "Wearer's attacks cannot be dodged. Attack Range is doubled."
+            ],
+            "combine": [
+                "Recurve Bow",
+                "Recurve Bow"
+            ]
+        },
+        {
+            "name": "Red Buff",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Attacks deal 2.5% burn damage."
+            ],
+            "combine": [
+                "Chain Vest",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Redemption",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 5,
+            "bonus": [
+                "On death, heal all nearby allies for 1000 Health."
+            ],
+            "combine": [
+                "Giant's Belt",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Runaan's Hurricane",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Attacks 2 extra targets on attack. Extra attacks deal 50% damage."
+            ],
+            "combine": [
+                "Negatron Cloak",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Seraph's Embrace",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Regain 20% mana each time a spell is cast."
+            ],
+            "combine": [
+                "Tear of the Goddess",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Spear of Shojin",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 1,
+            "bonus": [
+                "After casting, wearer gains 20% of its max mana per attack."
+            ],
+            "combine": [
+                "B.F. Sword",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Statikk Shiv",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Every 3rd attack deals 100 splash magical damage."
+            ],
+            "combine": [
+                "Recurve Bow",
+                "Tear of the Goddess"
+            ]
+        },
+        {
+            "name": "Sword Breaker",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 4,
+            "bonus": [
+                "Attacks have a chance to disarm."
+            ],
+            "combine": [
+                "Negatron Cloak",
+                "Chain Vest"
+            ]
+        },
+        {
+            "name": "Sword of the Divine",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Each second, the wearer has a 5% chance to gain 100% Critical Strike."
+            ],
+            "combine": [
+                "B.F. Sword",
+                "Recurve Bow"
+            ]
+        },
+        {
+            "name": "Thornmail",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Reflect 25% of damage taken from attacks."
+            ],
+            "combine": [
+                "Chain Vest",
+                "Chain Vest"
+            ]
+        },
+        {
+            "name": "Titanic Hydra",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Attacks deal 10% of the wearer's max Health as splash damage."
+            ],
+            "combine": [
+                "Recurve Bow",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Warmog's Armor",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                "Wearer regenerates 2.5% max Health per second."
+            ],
+            "combine": [
+                "Giant's Belt",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Youmuu's Ghostblade",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 2,
+            "bonus": [
+                "Wearer is also an Assassin."
+            ],
+            "combine": [
+                "B.F. Sword",
+                "Spatula"
+            ]
+        },
+        {
+            "name": "Yuumi",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 2,
+            "bonus": [
+                "Wearer is also a Sorcerer."
+            ],
+            "combine": [
+                "Spatula",
+                "Needlessly Large Rod"
+            ]
+        },
+        {
+            "name": "Zeke's Herald",
+            "tier_up": true,
+            "tier_down": false,
+            "tier": 1,
+            "bonus": [
+                "Adjacent allies gain +12.5% Attack Speed."
+            ],
+            "combine": [
+                "B.F. Sword",
+                "Giant's Belt"
+            ]
+        },
+        {
+            "name": "Zephyr",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 2,
+            "bonus": [
+                "On start of combat, banish an enemy for 5 seconds."
+            ],
+            "combine": [
+                "Giant's Belt",
+                "Negatron Cloak"
+            ]
+        }
+    ],
+    "tribes": [
+        {
+            "name": "Demon",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 5,
+            "effect": "Attacks from Demons have a chance to burn all of an enemy's mana and deal that much true damage.",
+            "bonus": [
+                {
+                    "count": 2,
+                    "value": "30% Chance to Mana Burn"
+                },
+                {
+                    "count": 4,
+                    "value": "50% Chance to Mana Burn"
+                },
+                {
+                    "count": 6,
+                    "value": "70% Chance to Mana Burn"
+                }
+            ]
+        },
+        {
+            "name": "Dragon",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 2,
+            "bonus": [
+                {
+                    "count": 2,
+                    "value": "Dragons are immune to Magic damage"
+                }
+            ]
+        },
+        {
+            "name": "Exile",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                {
+                    "count": 1,
+                    "value": "If an Exile has no adjacent allies at the start of combat, they gain a shield equal to 100% of their maximum health"
+                }
+            ]
+        },
+        {
+            "name": "Glacial",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 1,
+            "effect": "Attacks from Glacials have a chance to stun for 2s.",
+            "bonus": [
+                {
+                    "count": 2,
+                    "value": "20% Chance to Stun"
+                },
+                {
+                    "count": 4,
+                    "value": "30% Chance to Stun"
+                },
+                {
+                    "count": 6,
+                    "value": "45% Chance to Stun"
+                }
+            ]
+        },
+        {
+            "name": "Imperial",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 1,
+            "effect": "Imperials deal Double Damage.",
+            "bonus": [
+                {
+                    "count": 2,
+                    "value": "One Random Imperial"
+                },
+                {
+                    "count": 4,
+                    "value": "All Imperials"
+                }
+            ]
+        },
+        {
+            "name": "Noble",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "effect": "+100 Armor and heal 35 health per attack.",
+            "bonus": [
+                {
+                    "count": 3,
+                    "value": "1 Random Ally"
+                },
+                {
+                    "count": 6,
+                    "value": "All Allies"
+                }
+            ]
+        },
+        {
+            "name": "Ninja",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "effect": "The Ninja Trait is only active when you have exactly 1 or 4 Ninjas.",
+            "bonus": [
+                {
+                    "count": 1,
+                    "value": "Ninja gains +40% Attack Damage"
+                },
+                {
+                    "count": 4,
+                    "value": "All Ninjas gain +60% Attack Damage"
+                }
+            ]
+        },
+        {
+            "name": "Pirate",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 5,
+            "bonus": [
+                {
+                    "count": 3,
+                    "value": "Earn up to 4 additional gold after combat against another player"
+                }
+            ]
+        },
+        {
+            "name": "Phantom",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 4,
+            "bonus": [
+                {
+                    "count": 2,
+                    "value": "Curse a random enemy at the start of combat, setting their HP to 100"
+                }
+            ]
+        },
+        {
+            "name": "Robot",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 4,
+            "bonus": [
+                {
+                    "count": 1,
+                    "value": "Robots start combat at full mana"
+                }
+            ]
+        },
+        {
+            "name": "Void",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 4,
+            "bonus": [
+                {
+                    "count": 3,
+                    "value": "All basic attacks ignore 50% of the enemy's Armor"
+                }
+            ]
+        },
+        {
+            "name": "Wild",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 1,
+            "effect": "Attacks generate stacks of Fury (stacks up to 5 times). Each stack of Fury gives 8% Attack Speed.",
+            "bonus": [
+                {
+                    "count": 2,
+                    "value": "Wild Allies Only"
+                },
+                {
+                    "count": 4,
+                    "value": "All Allies"
+                }
+            ]
+        },
+        {
+            "name": "Yordle",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "effect": "Attacks against ally Yordles have a chance to miss.",
+            "bonus": [
+                {
+                    "count": 3,
+                    "value": "20% Chance to Miss"
+                },
+                {
+                    "count": 6,
+                    "value": "50% Chance to Miss"
+                }
+            ]
+        }
+    ],
+    "classes": [
+        {
+            "name": "Assassin",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 1,
+            "effect": "Assassins leap to the farthest enemy at the start of combat and deal additional Critical Strike Damage.",
+            "bonus": [
+                {
+                    "count": 3,
+                    "value": "+150% critical strike damage."
+                },
+                {
+                    "count": 6,
+                    "value": "+350% critical strike damage."
+                }
+            ]
+        },
+        {
+            "name": "Blademaster",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 2,
+            "effect": "Blademasters have a 35% chance to strike additional times each attack.",
+            "bonus": [
+                {
+                    "count": 3,
+                    "value": "One Additional Strike"
+                },
+                {
+                    "count": 6,
+                    "value": "Two Additional Strikes"
+                }
+            ]
+        },
+        {
+            "name": "Brawler",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "effect": "Brawlers receive bonus maximum health.",
+            "bonus": [
+                {
+                    "count": 2,
+                    "value": "300 Bonus Health"
+                },
+                {
+                    "count": 4,
+                    "value": "700 Bonus Health"
+                }
+            ]
+        },
+        {
+            "name": "Elementalist",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "effect": "Elementalists gain double mana from attacks.",
+            "bonus": [
+                {
+                    "count": 3,
+                    "value": "At the start of combat, summon a Golem"
+                }
+            ]
+        },
+        {
+            "name": "Guardian",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "bonus": [
+                {
+                    "count": 2,
+                    "value": "At the start of combat, all Guardians and adjacent allies receive +30 armor."
+                }
+            ]
+        },
+        {
+            "name": "Gunslinger",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 5,
+            "effect": "After attacking, Gunslingers have a 50% chance to fire additional attacks.",
+            "bonus": [
+                {
+                    "count": 2,
+                    "value": "Attack another random enemy"
+                },
+                {
+                    "count": 4,
+                    "value": "Attack all other enemies in range"
+                }
+            ]
+        },
+        {
+            "name": "Knight",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "effect": "Knights block damage from basic attacks.",
+            "bonus": [
+                {
+                    "count": 2,
+                    "value": "20 Damage Blocked"
+                },
+                {
+                    "count": 4,
+                    "value": "40 Damage Blocked"
+                },
+                {
+                    "count": 6,
+                    "value": "80 Damage Blocked"
+                }
+            ]
+        },
+        {
+            "name": "Ranger",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 3,
+            "effect": "Rangers have a chance to double their attack speed for the next 3s.",
+            "bonus": [
+                {
+                    "count": 2,
+                    "value": "25% Chance to Double Attack Speed"
+                },
+                {
+                    "count": 4,
+                    "value": "65% Chance to Double Attack Speed"
+                }
+            ]
+        },
+        {
+            "name": "Shapeshifter",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 2,
+            "effect": "Shapeshifters gain bonus maximum Health when they transform.",
+            "bonus": [
+                {
+                    "count": 3,
+                    "value": "100% Bonus Maximum Health"
+                }
+            ]
+        },
+        {
+            "name": "Sorcerer",
+            "tier_up": false,
+            "tier_down": false,
+            "tier": 1,
+            "effect": "Sorcerers gain double mana from attacking and allies have increased spell damage.",
+            "bonus": [
+                {
+                    "count": 3,
+                    "value": "+35% spell damage."
+                },
+                {
+                    "count": 6,
+                    "value": "+100% spell damage."
+                }
+            ]
+        }
+    ]
+}
