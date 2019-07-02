@@ -31,3 +31,39 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+    display: flex;
+}
+ul li {
+    margin-left: 30px;
+} 
+img {
+    width: 45px;
+    height: auto;
+}
+.bfsword {
+    border: 4px solid #61dafb    
+}
+.chainvest {
+    border: 4px solid #61fbb3
+} 
+.giantsbelt {
+    border: 4px solid #7a7a7a
+} 
+.needlesslylargerod {
+    border: 4px solid #e763c9  
+} 
+.negatroncloak {
+    border: 4px solid #be8402
+}
+.recurvebow {
+    border: 4px solid #70541d
+}
+.spatula {
+    border: 4px solid #ffde21;
+    filter: grayscale(50%);
+}
+.tearofthegoddess {
+    border: 4px solid #12c
+}
